@@ -1,3 +1,3 @@
-# Intro-to-CLS
+## Course Introduction to computational science assignments
 
-# meta-population model in assignment2_2a
+### meta-population model in assignment2_2a
